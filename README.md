@@ -1,2 +1,3 @@
 # COMP-1210
-COMP 1210 – Fundamentals of Computing I
+COMP 1210 Projects
+Fundamentals of Computing I
